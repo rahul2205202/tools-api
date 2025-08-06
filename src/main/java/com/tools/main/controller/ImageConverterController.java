@@ -32,7 +32,7 @@ import com.itextpdf.layout.element.AreaBreak;
 import com.itextpdf.layout.element.Image;
 import com.itextpdf.layout.properties.AreaBreakType;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://snap-shift-552700783517.europe-west1.run.app")
 @RestController
 @RequestMapping("/api/convert")
 public class ImageConverterController {
